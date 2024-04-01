@@ -1,0 +1,16 @@
+D:\Нова папка\Lab5OOP\bin\Debug\net8.0-windows\Lab5OOP.exe
+D:\Нова папка\Lab5OOP\bin\Debug\net8.0-windows\Lab5OOP.deps.json
+D:\Нова папка\Lab5OOP\bin\Debug\net8.0-windows\Lab5OOP.runtimeconfig.json
+D:\Нова папка\Lab5OOP\bin\Debug\net8.0-windows\Lab5OOP.dll
+D:\Нова папка\Lab5OOP\bin\Debug\net8.0-windows\Lab5OOP.pdb
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.Form1.resources
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.csproj.GenerateResource.cache
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.AssemblyInfoInputs.cache
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.AssemblyInfo.cs
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.csproj.CoreCompileInputs.cache
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.dll
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\refint\Lab5OOP.dll
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.pdb
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\Lab5OOP.genruntimeconfig.cache
+D:\Нова папка\Lab5OOP\obj\Debug\net8.0-windows\ref\Lab5OOP.dll
